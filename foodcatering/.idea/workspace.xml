@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18d76251-644b-4bdb-b830-65122611dc20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bZMgAltl2DW8wwJrfI3VL7UElE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jdk-14.0.1_doc-all/docs/api" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="foodcatering_package.FoodCatering" />
+      <module name="foodcatering" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18d76251-644b-4bdb-b830-65122611dc20" name="Default Changelist" comment="" />
+      <created>1588835270480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588835270480</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1609617652800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609617652800" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1609617652800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609617652800" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1609617652800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609617652800" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1609617652800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609617652800" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1609617282494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609617282494" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="choice" />
+        <watch expression="is_Admin" />
+        <watch expression="system.Users" />
+        <watch expression="system.Users.get(i).name" />
+        <watch expression="system.Users.get(i).password" />
+        <watch expression="choice2" />
+        <watch expression="All_Food.get(choice - 1)" />
+        <watch expression="system.Users.get(system.User_Index).Orders.get(i).Status" />
+        <watch expression="system.Users.get(system.User_Index).Wish_List.get(i).Items" />
+        <watch expression="system.Users.get(system.User_Index).Wish_List" />
+        <watch expression="system.Users.get(system.User_Index).Wish_List" language="JAVA" />
+        <watch expression="loyal" />
+        <watch expression="system.Users.get(system.User_Index).Orders.get(i).Food_Ordered.Items.size()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
